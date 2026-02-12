@@ -1,9 +1,9 @@
-# 🎬 Movie Recommendation System
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/780f2276-c4c3-453b-a7d9-2ed5617b5c25" /># 🎬 Movie Recommendation System
 
 A content-based Movie Recommendation System built using Natural Language Processing techniques and deployed using Streamlit.
 
 🔗 **Live Demo:**  
-https://movierecommendationsystem-gd28yx7hhdmti2gp24nhm.streamlit.app
+https://movierecommendationsystem-gd28yx72hhdmti2gp24nhm.streamlit.app/
 
 ---
 
